@@ -24,14 +24,28 @@ header {
   padding: 1em 1.5em;
 }
 
+.wrapper {
+  margin-left: -1.5em;
+  margin-right: -1.5em;
+  margin-top: 0;
+}
+
+.container {
+  display: table;
+  width: 100%;
+  border-spacing: 1.5em;
+}
+
 .main {
   background-color: #fff;
   border-radius: 0.5em;
   padding: 1em 1.5em;
+  display: table-cell;
 }
 
 .sidebar {
   background-color: #fff;
   border-radius: 0.5em;
   padding: 1.5em;
+  display: table-cell;
 }
