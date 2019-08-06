@@ -23,3 +23,15 @@ header {
   border-radius: 0.5em;
   padding: 1em 1.5em;
 }
+
+.main {
+  background-color: #fff;
+  border-radius: 0.5em;
+  padding: 1em 1.5em;
+}
+
+.sidebar {
+  background-color: #fff;
+  border-radius: 0.5em;
+  padding: 1.5em;
+}
