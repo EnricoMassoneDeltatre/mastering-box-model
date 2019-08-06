@@ -16,3 +16,10 @@ body {
 body * + * {
   margin-top: 1.5em;
 }
+
+header {
+  background-color: #0072b0;
+  color: #fff;
+  border-radius: 0.5em;
+  padding: 1em 1.5em;
+}
