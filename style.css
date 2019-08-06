@@ -41,6 +41,7 @@ header {
   border-radius: 0.5em;
   padding: 1em 1.5em;
   display: table-cell;
+  width: 70%;
 }
 
 .sidebar {
@@ -48,6 +49,7 @@ header {
   border-radius: 0.5em;
   padding: 1.5em;
   display: table-cell;
+  width: 30%;
 }
 
 .button-link {
