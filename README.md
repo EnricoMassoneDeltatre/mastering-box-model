@@ -6,5 +6,5 @@ This is both a way for me to fix the concepts illustrated there and an useful re
 This example page illustrates several quircks of CSS: 
  
   - how to get a more predictable box model by using the *border-box* value for *box-sizing* property
-  - how to create a simple two column layout with equal eight columns by using CSS tables 
+  - how to create a two column layout having equal eight columns by using CSS tables 
   - how to vertically space items inside a container by using a minimal amount of code resilient to page changes with the so called *lobotomized owl selector*
