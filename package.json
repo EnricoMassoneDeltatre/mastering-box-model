@@ -1,0 +1,22 @@
+{
+  "name": "mastering-box-model",
+  "version": "1.0.0",
+  "description": "This example page is insprired by chapter three of the book [CSS in depth](https://www.manning.com/books/css-in-depth).  \r This is both a way for me to fix the concepts illustrated there and an useful reference for anyone interested in learning CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnricoMassoneDeltatre/mastering-box-model.git"
+  },
+  "keywords": [
+    "CSS"
+  ],
+  "author": "Enrico Massone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnricoMassoneDeltatre/mastering-box-model/issues"
+  },
+  "homepage": "https://github.com/EnricoMassoneDeltatre/mastering-box-model#readme"
+}
