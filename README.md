@@ -8,3 +8,11 @@ This example page illustrates several quircks of CSS:
   - how to get a more predictable box model by using the *border-box* value for *box-sizing* property
   - how to create a two column layout having equal eight columns by using CSS tables 
   - how to vertically space items inside a container by using a minimal amount of code resilient to page changes with the so called *lobotomized owl selector*
+
+## How to run the sample page
+
+Clone or download the repository and follow these steps: 
+
+ - `cd mastering-box-model`
+ - `yarn install`
+ - `yarn run start`
